@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/feautures",
         glue = "com/cybertek/step_definitions",
         dryRun = false,
-        tags = "@wikiScenarioOutline"
+        tags = "@wiki"
 )
 public class CukesRunner {
 
